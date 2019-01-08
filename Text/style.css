@@ -14,10 +14,11 @@ h1 {
 	color: black;
 	font-weight: bold;
 	text-align: center;
+	line-height: 10vh;
 }
 
 p {
-	margin-top: 2vh;
+	margin-top: 1vh;
 	font-size: 10vh;
 	font-family: "Arial Bold", sans-serif;
 	color: black;
@@ -48,3 +49,20 @@ border: 5px solid black;
 input:focus {
   outline: none;
 }
+
+
+@media (max-width: 468px){
+	input {
+	width: 90vw;
+	height: 10vh;
+	}
+}
+
+@media (max-width: 768px){
+	input {
+	width: 90vw;
+	height: 10vh;
+	}
+}
+
+
