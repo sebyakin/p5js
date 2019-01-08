@@ -9,7 +9,7 @@ var b = 220;
 // 
 
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(window.innerWidth, window.innerHeight);
   ball1 = new Ball(100,20,20,255);
   ball2 = new Ball(500,100,50,100);
 }
@@ -34,5 +34,12 @@ function bg() {
     b = random(255);
   }
   
+window.onresize = function() {
+  var w = window.innerWidth;
+  var h = window.innerHeight;  
+  canvas.size(w,h);
+  width = w;
+  height = h;
+};
   
 }
