@@ -1,0 +1,81 @@
+[
+    {
+        "place": "Pinsa",
+        "description": "Пиджак бордовый",
+        "price": "73 500",
+        "img": "http://rehab-shop.ru/uploads/items/8676/p/8731/cat/1bf31211fdad0d4992d61c61a5291da2.jpg"
+    },
+    {
+        "place": "Белорусская хата",
+        "description": "Дафлкот белый",
+        "price": "95 000",
+        "img": "http://rehab-shop.ru/uploads/items/8675/p/8730/cat/9a24e1d1612f90533be315280579a2f9.jpg"
+    },
+    {
+        "place": "Dizengoff",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Imagine",
+        "description": "Рубашка серая",
+        "price": "62 000",
+        "img": "http://rehab-shop.ru/uploads/items/8673/p/8728/cat/fde1f34963d7bff159853655460418ea.jpg"
+    },
+    {
+        "place": "Microbe",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Моремания",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Хачапури и вино",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Хинкали поинт",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Мясо",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Saperavi",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Kechup",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Пицца 22 см",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    },
+    {
+        "place": "Караваевы",
+        "description": "Кардиган черно-синий",
+        "price": "65 000",
+        "img": "http://rehab-shop.ru/uploads/items/8674/p/8729/cat/a98ff61d481d4e6a0c9201e48864d310.jpg"
+    }
+    
+]

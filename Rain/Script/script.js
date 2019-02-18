@@ -1,6 +1,9 @@
 let pr = [];
 let canvas;
 
+function windowResized(){
+  resizeCanvas(window.innerWidth, window.innerHeight);
+}
 
 function setup() {
     canvas = createCanvas(window.innerWidth	, window.innerHeight);
@@ -20,4 +23,7 @@ function draw() {
     pr[i].show();
   }
 
+  if (pr.length > 10) {
+   pr.splice(0, 1);
+ }
 }

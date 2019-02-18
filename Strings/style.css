@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#cont {
+  font-family: arial;
+  margin-top: 1vh;
+  margin-left: 1vh;
+  font-size: 3vw;
+
+
+}
